@@ -1,0 +1,27 @@
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+a{
+    color: crimson;
+}
+
+body{
+
+    background-color: gray;
+}
+
+.textoBlanco{
+    color: white;
+}
+
+*{
+
+    color: turquoise;
+}
+
+::selection{
+    background: red;
+}
